@@ -18,13 +18,7 @@ This notebook performs a comprehensive Exploratory Data Analysis on the Amazon P
 
 ---
 
-## 🔗 Related Projects
 
-| What | Link |
-|------|------|
-| 🌐 Live Portfolio Site | [Visit Site](https://kiranrawat-learning.github.io/Amazon-Prime-Video-Dashboard-Analysis/) |
-| 📊 Tableau Dashboard | [View Dashboard](https://public.tableau.com/app/profile/kiran.rawat3887/viz/AmazonPrimeContentPerformanceDashboard/Dashboard1) |
-| 🐙 Dashboard Repo | [GitHub](https://github.com/kiranrawat-learning/Amazon-Prime-Video-Dashboard-Analysis) |
 
 ---
 
@@ -113,13 +107,7 @@ jupyter notebook Capstone_project_2_EDA.ipynb
 
 ---
 
-## 📬 Connect
 
-**Kiran Rawat** — Data Analyst
-
-[![GitHub](https://img.shields.io/badge/GitHub-kiranrawat--learning-black?style=flat&logo=github)](https://github.com/kiranrawat-learning)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-blue?style=flat&logo=tableau)](https://public.tableau.com/app/profile/kiran.rawat3887)
-[![Live Site](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat)](https://kiranrawat-learning.github.io/Amazon-Prime-Video-Dashboard-Analysis/)
 
 ---
 
