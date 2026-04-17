@@ -83,7 +83,7 @@ Amazon-Prime-Video-Dataset-EDA/
 
 ```bash
 # Clone the repo
-git clone https://github.com/kiranrawat-learning/Amazon-Prime-Video-Dataset-EDA.git
+
 
 # Navigate into the folder
 cd Amazon-Prime-Video-Dataset-EDA
